@@ -1,5 +1,5 @@
 #Realice un programa que consecutivamente pida ingresar dos valores para realizar operaciones matemáticas y muestre el resultado en consola.
-print ("Hola, este es un programa que calcula operaciones básicas matematicas")
+print ("Hola, este es un programa que calcula operaciones básicas matematicas y muestra el resultado")
 nombre=input("Por favor ingrese su nombre ")
 num1=int(input(f"{nombre} Ingrese el primer numero "))
 num2=int(input(f"{nombre} Ingrese el segundo numero "))
